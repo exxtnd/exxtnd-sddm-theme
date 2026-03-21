@@ -1,5 +1,5 @@
 # MacOS-подобная тема для SDDM
-[README.md] (ENGLISH)
+[README.md](https://github.com/exxtnd/exxtnd-sddm-theme/blob/main/README.md) (ENG VERSION)
 
 Чёрно-белая тема для SDDM, сделаная под Qt6. Вдохновлена экраном блокировки MacOS. Тут нет жидкого стекла и прочего мусора.
 
