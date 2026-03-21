@@ -1,4 +1,6 @@
 # MacOS-подобная тема для SDDM
+![sddmscreen](https://github.com/user-attachments/assets/645c191e-7037-4dee-bfa7-e01df72200c8)
+
 [README.md](https://github.com/exxtnd/exxtnd-sddm-theme/blob/main/README.md) (ENG VERSION)
 
 Чёрно-белая тема для SDDM, сделаная под Qt6. Вдохновлена экраном блокировки MacOS. Тут нет жидкого стекла и прочего мусора.
@@ -9,11 +11,6 @@
 * Можно выбрать юзера кликнув по аватарке
 * Возможность смены сессии
 * Другой базовый функционал
-
-## Скрин темы
-![sddmscreen](https://github.com/user-attachments/assets/645c191e-7037-4dee-bfa7-e01df72200c8)
-
-
 
 > для того, чтобы был такой шрифт как на скрине, нужно будет самостоятельно скачать и установить [шрифт Audiowide c Google Fonts](https://fonts.google.com/specimen/Audiowide?preview.script=Latn)
 
