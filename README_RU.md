@@ -15,7 +15,7 @@
 
 
 
-> для того, чтобы был такой шрифт как на скрине, нужно будет скачать и установить [шрифт Audiowide c Google Fonts](https://fonts.google.com/specimen/Audiowide?preview.script=Latn)
+> для того, чтобы был такой шрифт как на скрине, нужно будет самостоятельно скачать и установить [шрифт Audiowide c Google Fonts](https://fonts.google.com/specimen/Audiowide?preview.script=Latn)
 
 ## Установка
 ```
