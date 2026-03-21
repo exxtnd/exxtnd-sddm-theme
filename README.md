@@ -32,5 +32,5 @@ sudo cp -r maclike-sddm /usr/share/sddm/themes/
 [Theme]
 Current=maclike-theme 
 ```
-----
+---
 Please report me in «issues» if you’ll see some bugs
