@@ -30,7 +30,7 @@ sudo cp -r maclike-sddm /usr/share/sddm/themes/
 # если их у вас нет, создайте и вставьте в них это:
 
 [Theme]
-Current=maclike-sddm 
+Current=maclike-theme 
 ```
 ----
 ели вы заметили баги, критические ошибки или не работоспособность этой темы на каком-то дистрибутиве, отпишите об этом в "Issues"
