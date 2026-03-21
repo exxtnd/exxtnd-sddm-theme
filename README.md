@@ -18,9 +18,9 @@ Black&White minimalistic SDDM theme based on Qt6. This theme inspired by MacOS 2
 
 ## Installation
 ```
-git clone https://github.com/exxtnd/
+git clone https://github.com/exxtnd/exxtnd-sddm-theme
 
-cd 
+cd exxtnd-sddm-theme
 
 sudo cp -r maclike-sddm /usr/share/sddm/themes/ 
 ```
