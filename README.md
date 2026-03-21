@@ -5,6 +5,7 @@ Black&White minimalistic SDDM theme based on Qt6. This theme inspired by MacOS 2
 
 ## Features
 * Without unnecessary dependencies of KDE, you can install it with any DE/WM
+* The avatar changes automatically if there is an image named ``.face.icon`` in your user's home directory. If not, the fallback image will be displayed.
 * User's choice when clicking on the avatar
 * Quick access to session management
 * Other familiar functions
