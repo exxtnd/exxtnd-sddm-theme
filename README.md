@@ -23,7 +23,7 @@ git clone https://github.com/exxtnd/exxtnd-sddm-theme
 
 cd exxtnd-sddm-theme
 
-sudo cp -r maclike-sddm /usr/share/sddm/themes/ 
+sudo cp -r maclike-theme /usr/share/sddm/themes/ 
 ```
 ```
 # to apply this theme, you should edit /etc/sddm.conf and /etc/sddm.conf.d/sddm.conf
