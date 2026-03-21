@@ -10,8 +10,9 @@ Black&White minimalistic SDDM theme based on Qt6. This theme inspired by MacOS 2
 * Other familiar functions
 
 ## Screenshot
+![sddmscreen](https://github.com/user-attachments/assets/2244ece3-994e-43de-b3a0-6a56e9d0cee7)
 
-Твой скриншот
+
 
 > for best experience you should download and install [Audiowide font from Google Fonts](https://fonts.google.com/specimen/Audiowide?preview.script=Latn)
 
