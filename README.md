@@ -43,10 +43,6 @@ Current=maclike-theme
 │   ├── restart.png
 │   ├── session.png
 │   └── suspend.png
-├── components
-│   ├── PasswordField.qml
-│   ├── PowerButtons.qml
-│   └── UserAvatar.qml
 └── theme.conf
 ```
 
