@@ -34,11 +34,17 @@ Current=maclike-theme
 
 ## Customizing
 You can customize the background, fonts, element colors, and power button icons.
+
 Changing the background:
+
 If you don't want to edit the QML code, simply rename your image to ``bg.jpg`` and move it to the assets folder in the theme directory (overwrite the existing file). Please note that the background must be in JPG format; PNG and other formats are not supported by SDDM.
+
 Other images:
+
 To change the default profile picture or other assets, follow the same steps, all images are located in the assets folder.
+
 Advanced customization:
+
 For everything else, you'll need to edit the values in ``Main.qml`` and ``theme.conf``. I’ve added comments in the code to guide you, except for theme.conf, as it doesn't support comments and adding them will break the theme.
 
 ---
