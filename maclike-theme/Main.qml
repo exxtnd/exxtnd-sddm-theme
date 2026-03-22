@@ -266,7 +266,7 @@ Item {
                 radius: parseInt(config.sessionMenuRadius) || 10
                 color: config.sessionMenuColor || "#000000" // SESSION MENU BACKGROUND COLOR
                 visible: false
-                clip: true
+                clip: false
                 MouseArea {
                 id: sessionMenuBackdrop
                 width: root.width * 2
