@@ -37,7 +37,7 @@ You can customize the background, fonts, element colors, and power button icons.
 
 Changing the background:
 
-If you don't want to edit the QML code, simply rename your image to ``bg.jpg`` and move it to the assets folder in the theme directory (overwrite the existing file). Please note that the background must be in JPG format; PNG and other formats are not supported by SDDM.
+If you don't want to edit the QML code, simply rename your image to ``bg.jpg`` and move it to the assets folder in the theme directory (overwrite the existing file).
 
 Other images:
 
