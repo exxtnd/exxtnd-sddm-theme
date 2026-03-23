@@ -1,5 +1,6 @@
 # MacOS-Like black&white SDDM theme 
-![showcase](https://github.com/exxtnd/exxtnd-sddm-theme/blob/main/sddmscreen.jpg)
+![sddmscreen](https://github.com/user-attachments/assets/6b967bfd-bd6f-4c35-aa0d-24ae1c3f95f8)
+
 
 ---
 [README_RU.md](https://github.com/exxtnd/exxtnd-sddm-theme/blob/main/README_RU.md) (RU VERSION)
